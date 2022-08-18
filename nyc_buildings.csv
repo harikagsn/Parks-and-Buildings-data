@@ -1,0 +1,146 @@
+rank,name,height,floors,year,address,street
+1,One World Trade Center,1776,104,2014,285 Fulton Street,Fulton Street
+2,Central Park Tower,1550,98,2020,225 West 57th Street,West 57th Street
+3,111 West 57th Street,1428,84,2021,111 West 57th Street,West 57th Street
+4,One Vanderbilt,1401,59,2020,One Vanderbilt Avenue,Vanderbilt Avenue
+5,432 Park Avenue,1396,88,2015,432 Park Avenue,Park Avenue
+6,30 Hudson Yards,1270,73,2019,West 33rd Street & Tenth Avenue,33rd Street
+7,Empire State Building,1250,102,1931,350 Fifth Avenue,Fifth Avenue
+8,Bank of America Tower,1200,55,2009,1101 Sixth Avenue,Sixth Avenue
+9,3 World Trade Center,1079,80,2018,175 Greenwich Street,Greenwich Street
+10,53W53,1050,77,2019,53 West 53rd Street,West 53rd Street
+11,Chrysler Building,1046,77,1930,405 Lexington Avenue,Lexington Avenue
+12,The New York Times Building,1046,52,2007,620 Eighth Avenue,Eighth Avenue
+13,The Spiral,1041,66,2021,435 Tenth Avenue,Tenth Avenue
+14,50 Hudson Yards,1011,58,2022,504 West 34th Street,West 34th Street
+15,35 Hudson Yards,1009,72,2019,532-560 West 33rd Street,West 33rd Street
+16,One57,1004,73,2014,157 West 57th Street,West 57th Street
+17,1 Manhattan West,995,67,2019,401 Ninth Avenue,Ninth Avenue
+18,4 World Trade Center,978,74,2013,150 Greenwich Street,Greenwich Street
+19,220 Central Park South,953,69,2019,220 59th Street,59th Street
+20,70 Pine Street,952,67,1932,70 Pine Street,Pine Street
+21,Four Seasons Hotel New York Downtown,937,82,2016,27 Barclay Street,Barclay Street
+22,40 Wall Street,927,71,1930,40 Wall Street,Wall Street
+23,Citigroup Center,915,63,1977,601 Lexington Avenue,Lexington Avenue
+24,15 Hudson Yards,912,70,2019,West 30th Street & Eleventh Avenue,30th Street
+25,125 Greenwich Street,912,72,2020,125 Greenwich Street,Greenwich Street
+26,425 Park Avenue,897,41,2020,425 Park Avenue,Park Avenue
+27,10 Hudson Yards,878,52,2016,501 West 30th Street,West 30th Street
+28,8 Spruce Street,870,76,2011,8 Spruce Street,Spruce Street
+29,Trump World Tower,861,72,2001,845 United Nations Plaza,United Nations Plaza
+30,30 Rockefeller Plaza,850,70,1933,30 Rockefeller Plaza,Rockefeller Plaza
+31,One Manhattan Square,847,72,2019,250 South Street,South Street
+32,56 Leonard Street,821,57,2016,56 Leonard Street,Leonard Street
+33,CitySpire Center,814,75,1987,156 West 56th Street,West 56th Street
+34,28 Liberty Street,813,60,1961,28 Liberty Street,Liberty Street
+35,4 Times Square,809,48,1999,1472 Broadway,Broadway
+36,MetLife Building,808,59,1963,200 Park Avenue,Park Avenue
+37,731 Lexington Avenue,806,54,2004,731 Lexington Avenue,Lexington Avenue
+38,138 East 50th Street,803,64,2019,138 East 50th Street,East 50th Street
+39,130 William Street,800,66,2020,130 William Street,William Street
+40,126 Madison Avenue,800,62,2021,15 East 30th Street,East 30th Street
+41,Woolworth Building,792,57,1913,233 Broadway,Broadway
+42,111 Murray Street,792,58,2018,111 Murray Street,Murray Street
+43,520 Park Avenue,781,54,2018,520 Park Avenue,Park Avenue
+44,50 West Street,779,64,2018,50 West Street,West Street
+45,One Worldwide Plaza,778,47,1989,825 Eighth Avenue,Eighth Avenue
+46,55 Hudson Yards,778,51,2019,550 West 34th Street,West 34th Street
+47,Skyline Tower,778,67,2021,23-15 44th Drive,44th Drive
+48,Madison Square Park Tower,777,64,2017,45 East 22nd Street,East 22nd Street
+49,19 Dutch,758,63,2019,19 Dutch Street,Dutch Street
+50,Carnegie Hall Tower,757,60,1991,152 West 57th Street,West 57th Street
+51,383 Madison Avenue,755,47,2001,383 Madison Avenue,Madison Avenue
+52,29-37 41st Avenue,755,67,2021,Queens Plaza Park,Queens Plaza Park
+53,1717 Broadway,754,68,2013,1717 Broadway,Broadway
+54,AXA Equitable Center,752,54,1986,787 Seventh Avenue,Seventh Avenue
+55,1251 Avenue of the Americas,750,54,1971,1251 Sixth Avenue,Sixth Avenue
+56,One Penn Plaza,750,57,1972,250 West 34th Street,West 34th Street
+57,Time Warner Center North Tower,750,55,2003,10 Columbus Circle,Columbus Circle
+58,Time Warner Center South Tower,750,55,2003,10 Columbus Circle,Columbus Circle
+59,200 West Street,750,44,2010,200 West Street,West Street
+60,One Astor Plaza,745,54,1972,1515 Broadway,Broadway
+61,60 Wall Street,745,55,1989,60 Wall Street,Wall Street
+62,One Liberty Plaza,743,54,1973,165 Broadway,Broadway
+63,7 World Trade Center,743,52,2006,250 Greenwich Street,Greenwich Street
+64,20 Exchange Place,741,57,1931,20 Exchange Place,Exchange Place
+65,200 Vesey Street,739,51,1986,200 Vesey Street,Vesey Street
+66,ARO,738,62,2018,242 West 53rd Street,West 53rd Street
+67,1540 Broadway,733,42,1990,1540 Broadway,Broadway
+68,3 Manhattan West,730,62,2017,401 West 31st Street,West 31st Street
+69,Times Square Tower,726,47,2004,7 Times Square,Times Square
+70,Brooklyn Point,720,68,2020,138 Willoughby Street,Willoughby Street
+71,Metropolitan Tower,716,68,1985,146 West 57th Street,West 57th Street
+72,252 East 57th Street,715,65,2017,252 East 57th Street,East 57th Street
+73,100 East 53rd Street,711,63,2017,100 East 53rd Street,East 53rd Street
+74,270 Park Avenue,707,52,1960,270 Park Avenue,Park Avenue
+75,General Motors Building,705,50,1968,767 Fifth Avenue,Fifth Avenue
+76,25 Park Row,702,54,2020,25 Park Row,Park Row
+77,Metropolitan Life Insurance Company Tower,700,50,1909,1 Madison Avenue,Madison Avenue
+78,500 Fifth Avenue,697,59,1931,500 Fifth Avenue,Fifth Avenue
+79,Americas Tower,692,48,1992,1177 Sixth Avenue,Sixth Avenue
+80,Solow Building,689,49,1974,9 West 57th Street,West 57th Street
+81,140 Broadway,688,52,1967,140 Broadway,Broadway
+82,277 Park Avenue,687,50,1963,277 Park Avenue,Park Avenue
+83,55 Water Street,687,53,1972,55 Water Street,Water Street
+84,5 Beekman Street,687,47,2015,5 Beekman Street,Beekman Street
+85,Morgan Stanley Building,685,42,1989,1585 Broadway,Broadway
+86,Penguin Random House Tower,684,52,2003,1745 Broadway,Broadway
+87,Four Seasons Hotel New York,682,52,1993,57 East 57th Street,East 57th Street
+88,Sky,676,61,2015,605 West 42nd Street,West 42nd Street
+89,1221 Avenue of the Americas,674,51,1972,1221 Sixth Avenue,Sixth Avenue
+90,One Grand Central Place,673,53,1930,60 East 42nd Street,East 42nd Street
+91,One Court Square,673,50,1990,"2501 Jackson Avenue, Long Island City",Jackson Avenue
+92,Barclay Tower,673,56,2007,10 Barclay Street,Barclay Street
+93,277 Fifth Avenue,673,55,2019,277 Fifth Avenue,Fifth Avenue
+94,Paramount Plaza,670,48,1970,1633 Broadway,Broadway
+95,161 Maiden Lane,670,60,2020,161 Maiden Lane,Maiden Lane
+96,200 Amsterdam,668,55,2020,200 Amsterdam Avenue,Amsterdam Avenue
+97,45 Park Place,667,43,2020,45 Park Place,Park Place
+98,Trump Tower,664,58,1982,725 Fifth Avenue,Fifth Avenue
+99,1 Wall Street,654,50,1932,1 Wall Street,Wall Street
+100,599 Lexington Avenue,653,51,1986,599 Lexington Avenue,Lexington Avenue
+101,Silver Towers I,653,58,2009,620 West 42nd Street,West 42nd Street
+102,Silver Towers II,653,58,2009,620 West 42nd Street,West 42nd Street
+103,712 Fifth Avenue,650,53,1990,712 Fifth Avenue,Fifth Avenue
+104,Chanin Building,649,56,1929,122 East 42nd Street,East 42nd Street
+105,245 Park Avenue,648,47,1967,245 Park Avenue,Park Avenue
+106,550 Madison Avenue,647,37,1983,550 Madison Avenue,Madison Avenue
+107,Tower 28,647,58,2016,"42-12 28th Street, Long Island City",28th Street
+108,225 Liberty Street,645,44,1986,225 Liberty Street,Liberty Street
+109,1095 Avenue of the Americas,644,43,1974,1095 Sixth Avenue,Sixth Avenue
+110,General Electric Building,643,50,1931,570 Lexington Avenue,Lexington Avenue
+111,1 New York Plaza,640,50,1969,1 Water Street,Water Street
+112,Rose Hill,639,45,2020,30 East 29th Street,East 29th Street
+113,MiMA,638,63,2011,540 West 42nd Street,West 42nd Street
+114,One Dag Hammarskjold Plaza,637,48,1972,885 Second Avenue,Second Avenue
+115,345 Park Avenue,634,44,1969,345 Park Avenue,Park Avenue
+116,10 East 40th Street,632,48,1929,10 East 40th Street,East 40th Street
+117,"The Langham, New York",632,59,2010,400 Fifth Avenue,Fifth Avenue
+118,Home Insurance Plaza,630,44,1966,59 Maiden Lane,Maiden Lane
+119,W. R. Grace Building,630,50,1972,1114 Sixth Avenue,Sixth Avenue
+120,W New York Downtown Hotel and Residences,630,57,2010,8 Albany Street,Albany Street
+121,101 Park Avenue,629,49,1982,101 Park Avenue,Park Avenue
+122,888 7th Avenue,628,45,1971,888 Seventh Avenue,Seventh Avenue
+123,Central Park Place,628,56,1988,301 West 57th Street,West 57th Street
+124,Waldorf Astoria New York,625,47,1931,301 Park Avenue,Park Avenue
+125,1345 Avenue of the Americas,625,50,1969,1345 Sixth Avenue,Sixth Avenue
+126,Trump Palace Condominiums,623,54,1991,200 East 69th Street,East 69th Street
+127,One Madison,621,50,2010,23 East 22nd Street,East 22nd Street
+128,Olympic Tower,620,51,1976,641 Fifth Avenue,Fifth Avenue
+129,11 Hoyt*,620,51,2020,11 Hoyt Street,Hoyt Street
+130,425 Fifth Avenue,618,55,2003,425 Fifth Avenue,Fifth Avenue
+131,New York Life Building,615,33,1928,51 Madison Avenue,Madison Avenue
+132,919 Third Avenue,615,47,1970,919 Third Avenue,Third Avenue
+133,Tower 49,615,44,1985,12 East 49th Street,East 49th Street
+134,750 7th Avenue,615,35,1989,750 Seventh Avenue,Seventh Avenue
+135,The Epic,615,61,2007,125 West 31st Street,West 31st Street
+136,Eventi,614,54,2010,851 Sixth Avenue,Sixth Avenue
+137,555TEN,612,53,2016,555 Tenth Avenue,Tenth Avenue
+138,The Hub,610,54,2016,333 Schermerhorn Street,Schermerhorn Street
+139,Credit Lyonnais Building,609,46,1964,1301 Sixth Avenue,Sixth Avenue
+140,Baccarat Hotel and Residences,605,48,2014,28 West 53rd Street,West 53rd Street
+141,The Orion,604,60,2006,350 West 42nd Street,West 42nd Street
+142,590 Madison Avenue,603,41,1983,590 Madison Avenue,Madison Avenue
+143,250 West 55th Street,602,39,2013,250 West 55th Street,West 55th Street
+144,Eleven Times Square,601,40,2011,11 Times Square,Times Square
+145,1166 Avenue of the Americas,600,44,1974,1166 Sixth Avenue,Sixth Avenue
